@@ -9,7 +9,7 @@ To build and install locally:
 To use:
 
     <dependency>
-      <groupId>org.fixprotocol.fixml</groupId>
+      <groupId>com.github.xgp</groupId>
       <artifactId>fixml</artifactId>
       <version>5.0.SP2</version>
     </dependency>
