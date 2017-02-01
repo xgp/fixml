@@ -11,5 +11,5 @@ To use:
     <dependency>
       <groupId>com.github.xgp</groupId>
       <artifactId>fixml</artifactId>
-      <version>5.0.SP2</version>
+      <version>5.0.SP2.1</version>
     </dependency>
